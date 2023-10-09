@@ -1,0 +1,8 @@
+name: GriefAllow
+version: 1.0
+description: This plugin allows grief.
+authors: [MootComb9620292]
+
+depend: [WorldGuard, WorldEdit]
+main: ru.Overwrite.WGGF.Main
+api-version: 1.13

@@ -1,0 +1,8 @@
+# Allow grief pistons?
+enable-pistons: true
+# Allow grief trolley?
+enable-minecart: true
+# Allow grief wither?
+enable-wither: true
+# Allow grief sand?
+enable-sand: true
