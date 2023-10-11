@@ -5,4 +5,4 @@ enable-minecart: true
 # Allow grief wither?
 enable-wither: true
 # Allow grief sand?
-enable-sand: true
+enable-sand: false
