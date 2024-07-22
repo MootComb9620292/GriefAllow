@@ -1,3 +1,3 @@
-# MotComb9620292
+# GriefAllow
 This code allows grief.
 Thanks for the support!
